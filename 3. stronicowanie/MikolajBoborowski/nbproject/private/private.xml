@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/HelloCtrl.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/AdminController.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/config.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/Hello.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/public/css/styles.css</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/TransactionControllers.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/Messages.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/Validator.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/Utils.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/Router.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/sorting.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/Message.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/GoalsController.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/routing.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/ctrl.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/adminPanel.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/onload_db.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/SortingControllers.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/UserControllers.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/RoleUtils.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/BudgetAnalysisController.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/templates/main.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/App.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/register.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/index.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/transactions.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/lib/Medoo/Medoo.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/login.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/budgetAnalysis.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/goals.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/init.php</file>
+        </group>
+    </open-files>
+</project-private>
