@@ -50,7 +50,7 @@ class SortingControllers {
             $order = ['kwota' => 'ASC'];
         }
 
-        // Pobranie przefiltrowanych, posortowanych transakcji ze stronicowaniem
+        // Pobranie przefiltrowanych i posortowanych transakcji
         $transactions = App::getDB()->select('transakcje', '*', [
             'AND' => $conditions,
             'ORDER' => $order,
